@@ -8,5 +8,5 @@ It also has the material for learning and practicing Regular Expressions. ðŸ˜ŠðŸ
 
 To download all the files,
 - open the terminal
-- write this code ' git pull https://github.com/amyasma/NLP.git '
+- write this code ' git pull https://github.com/amyasma/ProjectNLP.git '
 - press return

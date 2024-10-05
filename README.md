@@ -11,5 +11,5 @@ To download all the files,
 - write this code ' git pull https://github.com/amyasma/ProjectNLP.git '
 - press return
 
-Disclaimer: 
+**Disclaimer:**
 I have worked really hard to prepare all this. Please do not share the materials with anyone without my consent. 

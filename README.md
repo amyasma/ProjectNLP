@@ -10,3 +10,6 @@ To download all the files,
 - open the terminal
 - write this code ' git pull https://github.com/amyasma/ProjectNLP.git '
 - press return
+
+Disclaimer: 
+I have worked really hard to prepare all this. Please do not share the materials with anyone without my consent. 
